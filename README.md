@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattfluffy
-- 👀 I’m interested in game design along with Apple products and software.
-- 🌱 I’m currently learning C++ and Python.
-- 📫 If you message me, I probably won't reply, not because I wanna be rude or anyhting i'm just usually very busy.
+- 👀 I’m interested in game design, Apple products, and software.
+- 🌱 I’m currently learning Assembly and C#.
+- 📫 If you message me, I probably won't reply, not because I want to be rude or anything I'm just usually swamped.
 
 <!---
 mattfluffy/mattfluffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
